@@ -1,1 +1,1 @@
-# add a script
+add a script
