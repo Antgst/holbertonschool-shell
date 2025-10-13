@@ -1,2 +1,2 @@
 #!/bin/bash
-which /tmp/imafile
+type /tmp/imafile
