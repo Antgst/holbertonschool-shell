@@ -1,2 +1,2 @@
-#!/bin/tmp/bash
+#!/bin/bash
 chown betty /tmp/hello
