@@ -1,12 +1,12 @@
-# ðŸ“˜ Shell, permissions
+# 📘 Shell, permissions
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -44,7 +44,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -86,7 +86,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -114,13 +114,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -264,7 +264,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. My name is Betty</summary>
@@ -318,12 +318,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. My name is Betty
 Commit used:
 User:
@@ -338,9 +338,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. My name is Betty"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -394,12 +394,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Who am I
 Commit used:
 User:
@@ -414,9 +414,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Who am I"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -471,12 +471,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Groups
 Commit used:
 User:
@@ -491,9 +491,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Groups"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -607,12 +607,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. New owner
 Commit used:
 User:
@@ -627,9 +627,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. New owner"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -673,12 +673,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Empty!
 Commit used:
 User:
@@ -693,9 +693,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Empty!"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -819,12 +819,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Execute
 Commit used:
 User:
@@ -839,9 +839,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Execute"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -955,12 +955,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Multiple permissions
 Commit used:
 User:
@@ -975,9 +975,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Multiple permissions"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1091,12 +1091,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Everybody!
 Commit used:
 User:
@@ -1111,9 +1111,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Everybody!"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1237,12 +1237,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. James Bond
 Commit used:
 User:
@@ -1257,9 +1257,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. James Bond"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1308,12 +1308,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. John Doe
 Commit used:
 User:
@@ -1328,9 +1328,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. John Doe"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1356,7 +1356,7 @@ Write a script that sets the mode of the file
 hello
 the same as
 olleh
-â€™s mode.
+’s mode.
 The file
 hello
 will be in the working directory
@@ -1472,12 +1472,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Look in the mirror
 Commit used:
 User:
@@ -1492,9 +1492,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Look in the mirror"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1663,12 +1663,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Directories
 Commit used:
 User:
@@ -1683,9 +1683,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Directories"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1866,12 +1866,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. More directories
 Commit used:
 User:
@@ -1886,9 +1886,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. More directories"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2084,12 +2084,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. Change group
 Commit used:
 User:
@@ -2104,9 +2104,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. Change group"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2300,12 +2300,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 14. Owner and group
 Commit used:
 User:
@@ -2320,9 +2320,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "14. Owner and group"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2464,12 +2464,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 15. Symbolic links
 Commit used:
 User:
@@ -2484,9 +2484,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "15. Symbolic links"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2605,12 +2605,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 16. If only
 Commit used:
 User:
@@ -2625,9 +2625,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "16. If only"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2637,13 +2637,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

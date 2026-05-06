@@ -1,12 +1,12 @@
-# ðŸ“˜ Shell, init files, variables and expansions
+# 📘 Shell, init files, variables and expansions
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -50,7 +50,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -132,7 +132,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -158,13 +158,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -249,7 +249,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. <o></summary>
@@ -326,12 +326,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. <o>
 Commit used:
 User:
@@ -346,9 +346,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. <o>"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -433,12 +433,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Hello you
 Commit used:
 User:
@@ -453,9 +453,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Hello you"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -587,12 +587,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. The path to success is to take massive, determined action
 Commit used:
 User:
@@ -607,9 +607,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. The path to success is to take massive, determined action"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -749,12 +749,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. If the path be beautiful, let us not ask where it leads
 Commit used:
 User:
@@ -769,9 +769,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. If the path be beautiful, let us not ask where it leads"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -851,12 +851,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Global variables
 Commit used:
 User:
@@ -871,9 +871,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Global variables"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -950,12 +950,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Local variables
 Commit used:
 User:
@@ -970,9 +970,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Local variables"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1018,12 +1018,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Local variable
 Commit used:
 User:
@@ -1038,9 +1038,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Local variable"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1086,12 +1086,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Global variable
 Commit used:
 User:
@@ -1106,9 +1106,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Global variable"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1174,12 +1174,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Every addition to true knowledge is an addition to human power
 Commit used:
 User:
@@ -1194,9 +1194,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Every addition to true knowledge is an addition to human power"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1278,12 +1278,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Divide and rule
 Commit used:
 User:
@@ -1298,9 +1298,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Divide and rule"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1386,12 +1386,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 Commit used:
 User:
@@ -1406,9 +1406,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1479,12 +1479,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
 Commit used:
 User:
@@ -1499,9 +1499,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. There are 10 types of people in the world -- Those who understand binary, and those who don't"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1597,12 +1597,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Combination
 Commit used:
 User:
@@ -1617,9 +1617,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Combination"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1779,12 +1779,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. Floats
 Commit used:
 User:
@@ -1799,9 +1799,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. Floats"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1898,12 +1898,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 14. Decimal to Hexadecimal
 Commit used:
 User:
@@ -1918,9 +1918,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "14. Decimal to Hexadecimal"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1930,13 +1930,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

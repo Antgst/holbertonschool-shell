@@ -1,12 +1,12 @@
-# ðŸ“˜ Shell, basics
+# 📘 Shell, basics
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -70,7 +70,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -202,7 +202,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -228,13 +228,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -318,7 +318,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Where am I?</summary>
@@ -362,12 +362,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Where am I?
 Commit used:
 User:
@@ -382,9 +382,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Where am I?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -392,7 +392,7 @@ Loading...
 </details>
 
 <details>
-<summary>1. Whatâ€™s in there?</summary>
+<summary>1. What’s in there?</summary>
 
 **Files:**
 
@@ -405,7 +405,7 @@ Loading...
 **Task details:**
 
 ```text
-1. Whatâ€™s in there?
+1. What’s in there?
 Display the contents list of your current directory.
 Example:
 $
@@ -442,13 +442,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
-1. Whatâ€™s in there?
+×
+1. What’s in there?
 Commit used:
 User:
 ---
@@ -462,9 +462,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
-Students who are done with "1. Whatâ€™s in there?"
-Ã—
+×
+Students who are done with "1. What’s in there?"
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -486,7 +486,7 @@ Loading...
 
 ```text
 2. There is no place like home
-Write a script that changes the working directory to the userâ€™s home directory.
+Write a script that changes the working directory to the user’s home directory.
 You are not allowed to use any shell variables
 Example:
 julien
@@ -538,12 +538,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. There is no place like home
 Commit used:
 User:
@@ -558,9 +558,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. There is no place like home"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -611,12 +611,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. The long format
 Commit used:
 User:
@@ -631,9 +631,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. The long format"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -777,12 +777,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Hidden files
 Commit used:
 User:
@@ -797,9 +797,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Hidden files"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -965,12 +965,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. I love numbers
 Commit used:
 User:
@@ -985,9 +985,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. I love numbers"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1043,12 +1043,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Welcome
 Commit used:
 User:
@@ -1063,9 +1063,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Welcome"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1121,12 +1121,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Betty in my first directory
 Commit used:
 User:
@@ -1141,9 +1141,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Betty in my first directory"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1198,12 +1198,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Bye bye Betty
 Commit used:
 User:
@@ -1218,9 +1218,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Bye bye Betty"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1273,12 +1273,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Bye bye My first directory
 Commit used:
 User:
@@ -1293,9 +1293,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Bye bye My first directory"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1368,12 +1368,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Back to the future
 Commit used:
 User:
@@ -1388,9 +1388,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Back to the future"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1436,12 +1436,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Lists
 Commit used:
 User:
@@ -1456,9 +1456,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Lists"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1546,12 +1546,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. File type
 Commit used:
 User:
@@ -1566,9 +1566,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. File type"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1711,12 +1711,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. We are symbols, and inhabit symbols
 Commit used:
 User:
@@ -1731,9 +1731,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. We are symbols, and inhabit symbols"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1777,12 +1777,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 14. Copy HTML files
 Commit used:
 User:
@@ -1797,9 +1797,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "14. Copy HTML files"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1807,7 +1807,7 @@ Loading...
 </details>
 
 <details>
-<summary>15. Letâ€™s move</summary>
+<summary>15. Let’s move</summary>
 
 **Files:**
 
@@ -1820,7 +1820,7 @@ Loading...
 **Task details:**
 
 ```text
-15. Letâ€™s move
+15. Let’s move
 Create a script that moves all files beginning with an uppercase letter to the directory
 /tmp/u
 .
@@ -2087,13 +2087,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
-15. Letâ€™s move
+×
+15. Let’s move
 Commit used:
 User:
 ---
@@ -2107,9 +2107,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
-Students who are done with "15. Letâ€™s move"
-Ã—
+×
+Students who are done with "15. Let’s move"
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2210,12 +2210,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 16. Clean Emacs
 Commit used:
 User:
@@ -2230,9 +2230,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "16. Clean Emacs"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2343,12 +2343,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 17. Tree
 Commit used:
 User:
@@ -2363,9 +2363,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "17. Tree"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2375,13 +2375,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

@@ -1,12 +1,12 @@
-# ðŸ“˜ Shell, I/O Redirections and filters
+# 📘 Shell, I/O Redirections and filters
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -50,7 +50,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -100,7 +100,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -126,13 +126,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -276,7 +276,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Hello World</summary>
@@ -293,7 +293,7 @@ _To be reviewed and completed manually if needed._
 
 ```text
 0. Hello World
-Write a script that prints â€œHello, Worldâ€, followed by a new line to the standard output.
+Write a script that prints “Hello, World”, followed by a new line to the standard output.
 julien
 @ubuntu
 :/tmp/h
@@ -333,13 +333,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "0. Hello World"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -362,7 +362,7 @@ Loading...
 ```text
 1. Confused smiley
 Write a script that displays a confused smiley
-"(Ã”o)'
+"(Ôo)'
 .
 julien
 @ubuntu
@@ -371,7 +371,7 @@ $
 ./
 1
 -confused_smiley
-"(Ã”o)'
+"(Ôo)'
 julien@ubuntu:/tmp/h$
 Repo:
 GitHub repository:
@@ -392,13 +392,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "1. Confused smiley"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -596,13 +596,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "2. Let's display a file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -711,13 +711,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "3. What about 2?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -868,13 +868,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "4. Last lines of a file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -940,13 +940,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "5. I'd prefer the first ones actually"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1006,12 +1006,12 @@ defiance of the Senate and began
 his long civil war against Pompey and the Optimates. The phrase has been
 adopted
 in
-Italian (Il dado Ã¨ tratto), Romanian (Zarurile au fost aruncate),
-Spanish (La suerte estÃ¡ echada), French (Les dÃ©s sont jetÃ©s), Portuguese (A
-sorte estÃ¡ lanÃ§ada), Dutch (De teerling
+Italian (Il dado è tratto), Romanian (Zarurile au fost aruncate),
+Spanish (La suerte está echada), French (Les dés sont jetés), Portuguese (A
+sorte está lançada), Dutch (De teerling
 is
 geworpen),
-German (Der WÃ¼rfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
+German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
 indicate that events have passed a point of no
 return
 .
@@ -1053,13 +1053,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "6. Line #2"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1184,13 +1184,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "7. It is a good file that cuts iron without making a noise"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1445,13 +1445,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "8. Save current state of directory"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1508,12 +1508,12 @@ defiance of the Senate and began
 his long civil war against Pompey and the Optimates. The phrase has been
 adopted
 in
-Italian (Il dado Ã¨ tratto), Romanian (Zarurile au fost aruncate),
-Spanish (La suerte estÃ¡ echada), French (Les dÃ©s sont jetÃ©s), Portuguese (A
-sorte estÃ¡ lanÃ§ada), Dutch (De teerling
+Italian (Il dado è tratto), Romanian (Zarurile au fost aruncate),
+Spanish (La suerte está echada), French (Les dés sont jetés), Portuguese (A
+sorte está lançada), Dutch (De teerling
 is
 geworpen),
-German (Der WÃ¼rfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
+German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
 indicate that events have passed a point of no
 return
 .
@@ -1554,12 +1554,12 @@ defiance of the Senate and began
 his long civil war against Pompey and the Optimates. The phrase has been
 adopted
 in
-Italian (Il dado Ã¨ tratto), Romanian (Zarurile au fost aruncate),
-Spanish (La suerte estÃ¡ echada), French (Les dÃ©s sont jetÃ©s), Portuguese (A
-sorte estÃ¡ lanÃ§ada), Dutch (De teerling
+Italian (Il dado è tratto), Romanian (Zarurile au fost aruncate),
+Spanish (La suerte está echada), French (Les dés sont jetés), Portuguese (A
+sorte está lançada), Dutch (De teerling
 is
 geworpen),
-German (Der WÃ¼rfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
+German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
 indicate that events have passed a point of no
 return
 .
@@ -1589,13 +1589,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "9. Duplicate last line"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1827,13 +1827,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "10. No more javascript"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2163,13 +2163,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "11. Don't just count your directories, make your directories count"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2177,7 +2177,7 @@ Loading...
 </details>
 
 <details>
-<summary>12. Whatâ€™s new</summary>
+<summary>12. What’s new</summary>
 
 **Files:**
 
@@ -2190,7 +2190,7 @@ Loading...
 **Task details:**
 
 ```text
-12. Whatâ€™s new
+12. What’s new
 Create a script that displays the 10 newest files in the current directory.
 Requirements:
 One file per line
@@ -2242,13 +2242,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
-Students who are done with "12. Whatâ€™s new"
-Ã—
+×
+Students who are done with "12. What’s new"
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2338,13 +2338,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "13. Being unique is better than being perfect"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2422,13 +2422,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "14. It must be in that file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2477,13 +2477,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "15. Count that word"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2629,13 +2629,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "16. What's next?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2701,13 +2701,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "17. I hate bins"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2760,13 +2760,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "18. Letters only please"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2837,13 +2837,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "19. A to Z"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2900,13 +2900,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "20. Without C, you would live in hiago"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2962,13 +2962,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "21. esreveR"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3509,13 +3509,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "22. DJ Cut Killer"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4002,13 +4002,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "23. Empty casks make the most noise"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4363,13 +4363,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "24. A gif is worth ten thousand words"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4396,7 +4396,7 @@ An acrostic is a poem (or other form of writing) in which the first letter (or s
 Read more
 .
 Create a script that decodes acrostics that use the first letter of each line.
-The â€˜decodedâ€™ message has to end with a new line
+The ‘decoded’ message has to end with a new line
 You are not allowed to use
 grep
 ,
@@ -4413,14 +4413,14 @@ Elizabeth it is in vain you
 say
 Love
 not
-"â€”thou sayest it in so sweet a way:
+"—thou sayest it in so sweet a way:
 In vain those words from thee or L.E.L.
 Zantippe's talents had enforced so well:
 Ah! if that language from thy heart arise,
-Breath it less gently forthâ€”and veil thine eyes.
+Breath it less gently forth—and veil thine eyes.
 Endymion, recollect, when Luna tried
-To cure his loveâ€”was cured of all besideâ€”
-His follieâ€”prideâ€”and passionâ€”for he died.
+To cure his love—was cured of all beside—
+His follie—pride—and passion—for he died.
 julien@ubuntu:/tmp/0x02$ ./25-acrostic < An\ Acrostic
 ELIZABETH
 julien@ubuntu:/tmp/0x02$
@@ -4443,13 +4443,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "25. Acrostic"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4559,7 +4559,7 @@ Length
 (765K) [binary/octet-stream]
 Saving
 to:
-â€˜nasa_19950801.tsvâ€™
+‘nasa_19950801.tsv’
 
 nasa_19950801.tsv
 100
@@ -4583,7 +4583,7 @@ in
 (
 98.4
 MB
-/s) - â€˜nasa_19950801.tsvâ€™ saved [
+/s) - ‘nasa_19950801.tsv’ saved [
 782913
 /
 782913
@@ -4715,13 +4715,13 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
-Ã—
+×
 Students who are done with "26. The biggest fan"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4731,13 +4731,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 
