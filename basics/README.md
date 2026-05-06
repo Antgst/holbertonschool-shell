@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [What Is "The Shell"?](https://intranet.hbtn.io/auth/sign_in)
 
 - [Navigation](https://intranet.hbtn.io/auth/sign_in)
@@ -35,9 +34,7 @@ _No description detected._
 - [Linux file systems explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)
 
 
-
 **man or help**:
-
 
 
 - `cd`
@@ -75,9 +72,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What does RTFM mean?
@@ -85,9 +80,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What is a Shebang
 
 
-
 ### What is the Shell
-
 
 
 - What is the shell
@@ -99,9 +92,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to use the history (the basics)
 
 
-
 ### Navigation
-
 
 
 - What do the commands or built-ins `cd`, `pwd`, `ls` do
@@ -123,9 +114,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What does the command `cd -` do
 
 
-
 ### Looking Around
-
 
 
 - What do the commands `ls`, `less`, `file` do
@@ -147,9 +136,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What is the difference between a hard link and a symbolic link
 
 
-
 ### Manipulating Files
-
 
 
 - What do the commands `cp`, `mv`, `rm`, `mkdir` do
@@ -159,9 +146,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to use wildcards
 
 
-
 ### Working with Commands
-
 
 
 - What do `type`, `which`, `help`, `man` commands do
@@ -173,9 +158,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - When do you use the command help instead of man
 
 
-
 ### Reading Man Pages
-
 
 
 - How to read a man page
@@ -185,17 +168,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What are the section numbers for User commands, System calls and Library functions
 
 
-
 ### Keyboard Shortcuts for Bash
-
 
 
 - Common shortcuts for Bash
 
 
-
 ### LTS
-
 
 
 - What does `LTS` mean?
@@ -205,7 +184,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -350,43 +328,12 @@ Directory:
 basics
 File:
 0-current_working_directory
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Where am I?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Where am I?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -430,43 +377,12 @@ Directory:
 basics
 File:
 1-listit
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. What’s in there?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. What’s in there?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -526,43 +442,12 @@ Directory:
 basics
 File:
 2-bring_me_home
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. There is no place like home
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. There is no place like home"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -599,43 +484,12 @@ Directory:
 basics
 File:
 3-listfiles
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. The long format
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. The long format"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -765,43 +619,12 @@ Directory:
 basics
 File:
 4-listmorefiles
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Hidden files
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Hidden files"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -953,43 +776,12 @@ Directory:
 basics
 File:
 5-listfilesdigitonly
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. I love numbers
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. I love numbers"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1031,43 +823,12 @@ Directory:
 basics
 File:
 6-firstdirectory
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Welcome
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Welcome"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1109,43 +870,12 @@ Directory:
 basics
 File:
 7-movethatfile
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Betty in my first directory
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Betty in my first directory"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1186,43 +916,12 @@ Directory:
 basics
 File:
 8-firstdelete
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Bye bye Betty
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Bye bye Betty"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1261,43 +960,12 @@ Directory:
 basics
 File:
 9-firstdirdeletion
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Bye bye My first directory
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Bye bye My first directory"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1356,43 +1024,12 @@ Directory:
 basics
 File:
 10-back
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Back to the future
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Back to the future"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1424,43 +1061,12 @@ Directory:
 basics
 File:
 11-lists
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Lists
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Lists"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1534,43 +1140,12 @@ Directory:
 basics
 File:
 12-file_type
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. File type
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. File type"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1699,43 +1274,12 @@ Directory:
 basics
 File:
 13-symbolic_link
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. We are symbols, and inhabit symbols
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. We are symbols, and inhabit symbols"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1765,43 +1309,12 @@ Directory:
 basics
 File:
 14-copy_html
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. Copy HTML files
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. Copy HTML files"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2075,43 +1588,12 @@ Directory:
 basics
 File:
 15-lets_move
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 15. Let’s move
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "15. Let’s move"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2198,43 +1680,12 @@ Directory:
 basics
 File:
 16-clean_emacs
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 16. Clean Emacs
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "16. Clean Emacs"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2331,43 +1782,12 @@ Directory:
 basics
 File:
 17-tree
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 17. Tree
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "17. Tree"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

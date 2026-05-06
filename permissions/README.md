@@ -11,13 +11,10 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Permissions](http://linuxcommand.org/lc3_lts0090.php)
 
 
-
 **man or help**:
-
 
 
 - `chmod`
@@ -49,9 +46,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### Permissions
-
 
 
 - What do the commands `chmod`, `sudo`, `su`, `chown`, `chgrp` do
@@ -69,9 +64,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to change user ID or become superuser
 
 
-
 ### Other Man Pages
-
 
 
 - How to create a user
@@ -91,7 +84,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### General
 
 
-
 - Allowed editors: `vi`, `vim`, `emacs`
 
 - All your scripts will be tested on Ubuntu 22.04 LTS
@@ -107,7 +99,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - You are not allowed to use backticks, `&&`, `||` or `;`
 
 - All your files must be executable
-
 
 
 **Warning: tasks 3 / 13 / 14 / 15 / 16 must be done inside the sandbox in order to be corrected by the checker.**
@@ -306,43 +297,12 @@ Directory:
 permissions
 File:
 0-iam_betty
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. My name is Betty
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. My name is Betty"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -382,43 +342,12 @@ Directory:
 permissions
 File:
 1-who_am_i
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Who am I
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Who am I"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -459,43 +388,12 @@ Directory:
 permissions
 File:
 2-groups
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Groups
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Groups"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -595,43 +493,12 @@ Directory:
 permissions
 File:
 3-new_owner
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. New owner
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. New owner"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -661,43 +528,12 @@ Directory:
 permissions
 File:
 4-empty
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Empty!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Empty!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -807,43 +643,12 @@ Directory:
 permissions
 File:
 5-execute
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Execute
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Execute"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -943,43 +748,12 @@ Directory:
 permissions
 File:
 6-multiple_permissions
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Multiple permissions
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Multiple permissions"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1079,43 +853,12 @@ Directory:
 permissions
 File:
 7-everybody
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Everybody!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Everybody!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1225,43 +968,12 @@ Directory:
 permissions
 File:
 8-James_Bond
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. James Bond
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. James Bond"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1296,43 +1008,12 @@ Directory:
 permissions
 File:
 9-John_Doe
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. John Doe
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. John Doe"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1460,43 +1141,12 @@ Directory:
 permissions
 File:
 10-mirror_permissions
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Look in the mirror
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Look in the mirror"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1651,43 +1301,12 @@ Directory:
 permissions
 File:
 11-directories_permissions
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Directories
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Directories"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1854,43 +1473,12 @@ Directory:
 permissions
 File:
 12-directory_permissions
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. More directories
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. More directories"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2072,43 +1660,12 @@ Directory:
 permissions
 File:
 13-change_group
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. Change group
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. Change group"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2288,43 +1845,12 @@ Directory:
 permissions
 File:
 14-change_owner_and_group
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. Owner and group
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. Owner and group"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2452,43 +1978,12 @@ Directory:
 permissions
 File:
 15-symbolic_link_permissions
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 15. Symbolic links
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "15. Symbolic links"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2593,43 +2088,12 @@ Directory:
 permissions
 File:
 16-if_only
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 16. If only
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "16. If only"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

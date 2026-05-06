@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Expansions](http://linuxcommand.org/lc3_lts0080.php)
 
 - [Shell Arithmetic](https://intranet.hbtn.io/rltoken/CuAnsjJ9mg_y-zBVwmn7mg)
@@ -25,9 +24,7 @@ _No description detected._
 - [Technical Writing](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/6/9112669886fd446a2aa3113c31319d1f468dc160.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T204546Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4ae5c8cab9d918a8293684aa7327a1d1db7c5c416bb5fe20d18a928441b5721c)
 
 
-
 **man or help**:
-
 
 
 - `printenv`
@@ -55,17 +52,13 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What happens when you type `$ ls -l *.txt`
 
 
-
 ### Shell Initialization Files
-
 
 
 - What are the `/etc/profile` file and the `/etc/profile.d` directory
@@ -73,9 +66,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What is the `~/.bashrc` file
 
 
-
 ### Variables
-
 
 
 - What is the difference between a local and a global variable
@@ -91,9 +82,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What is the special parameter `$?`?
 
 
-
 ### Expansions
-
 
 
   - What is expansion and how to use them
@@ -103,17 +92,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
   - How to do command substitution with `$()` and backticks
 
 
-
 ### Shell Arithmetic
-
 
 
 - How to perform arithmetic operations with the shell
 
 
-
 ### The `alias` Command
-
 
 
 - How to create an alias
@@ -123,9 +108,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to temporarily disable an alias
 
 
-
 ### Other `help` pages
-
 
 
 - How to execute commands from a file in the current shell
@@ -135,7 +118,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -314,43 +296,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 0-alias
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. <o>
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. <o>"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -421,43 +372,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 1-hello_you
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Hello you
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Hello you"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -575,43 +495,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 2-path
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. The path to success is to take massive, determined action
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. The path to success is to take massive, determined action"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -737,43 +626,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 3-paths
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. If the path be beautiful, let us not ask where it leads
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. If the path be beautiful, let us not ask where it leads"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -839,43 +697,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 4-global_variables
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Global variables
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Global variables"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -938,43 +765,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 5-local_variables
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Local variables
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Local variables"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1006,43 +802,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 6-create_local_variable
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Local variable
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Local variable"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1074,43 +839,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 7-create_global_variable
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Global variable
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Global variable"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1162,43 +896,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 8-true_knowledge
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Every addition to true knowledge is an addition to human power
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Every addition to true knowledge is an addition to human power"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1266,43 +969,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 9-divide_and_rule
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Divide and rule
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Divide and rule"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1374,43 +1046,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 10-love_exponent_breath
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1467,43 +1108,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 11-binary_to_decimal
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. There are 10 types of people in the world -- Those who understand binary, and those who don't"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1585,43 +1195,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 12-combinations
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Combination
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Combination"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1767,43 +1346,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 13-print_float
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. Floats
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. Floats"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1886,43 +1434,12 @@ Directory:
 init_files_variables_and_expansions
 File:
 14-decimal_to_hexadecimal
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. Decimal to Hexadecimal
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. Decimal to Hexadecimal"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

@@ -11,15 +11,12 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
 
 - [Special Characters](http://mywiki.wooledge.org/BashGuide/SpecialCharacters)
 
 
-
 **man or help**:
-
 
 
 - `echo`
@@ -55,9 +52,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### Shell, I/O Redirection
-
 
 
 - What do the commands `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr` do
@@ -71,9 +66,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to combine commands and filters with redirections
 
 
-
 ### Special Characters
-
 
 
 - What are special characters
@@ -81,9 +74,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
 
 
-
 ### Other Man Pages
-
 
 
 - How to display a line of text
@@ -103,7 +94,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -321,27 +311,6 @@ Directory:
 io_redirections_and_filters
 File:
 0-hello_world
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "0. Hello World"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -380,27 +349,6 @@ Directory:
 io_redirections_and_filters
 File:
 1-confused_smiley
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "1. Confused smiley"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -584,27 +532,6 @@ Directory:
 io_redirections_and_filters
 File:
 2-hellofile
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "2. Let's display a file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -699,27 +626,6 @@ Directory:
 io_redirections_and_filters
 File:
 3-twofiles
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "3. What about 2?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -856,27 +762,6 @@ Directory:
 io_redirections_and_filters
 File:
 4-lastlines
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "4. Last lines of a file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -928,27 +813,6 @@ Directory:
 io_redirections_and_filters
 File:
 5-firstlines
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "5. I'd prefer the first ones actually"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1041,27 +905,6 @@ Directory:
 io_redirections_and_filters
 File:
 6-third_line
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "6. Line #2"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1172,27 +1015,6 @@ Directory:
 io_redirections_and_filters
 File:
 7-file
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "7. It is a good file that cuts iron without making a noise"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1433,27 +1255,6 @@ Directory:
 io_redirections_and_filters
 File:
 8-cwd_state
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "8. Save current state of directory"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1577,27 +1378,6 @@ Directory:
 io_redirections_and_filters
 File:
 9-duplicate_last_line
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "9. Duplicate last line"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1815,27 +1595,6 @@ Directory:
 io_redirections_and_filters
 File:
 10-no_more_js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "10. No more javascript"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2151,27 +1910,6 @@ Directory:
 io_redirections_and_filters
 File:
 11-directories
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "11. Don't just count your directories, make your directories count"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2230,27 +1968,6 @@ Directory:
 io_redirections_and_filters
 File:
 12-newest_files
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "12. What’s new"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2326,27 +2043,6 @@ Directory:
 io_redirections_and_filters
 File:
 13-unique
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "13. Being unique is better than being perfect"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2410,27 +2106,6 @@ Directory:
 io_redirections_and_filters
 File:
 14-findthatword
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "14. It must be in that file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2465,27 +2140,6 @@ Directory:
 io_redirections_and_filters
 File:
 15-countthatword
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "15. Count that word"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2617,27 +2271,6 @@ Directory:
 io_redirections_and_filters
 File:
 16-whatsnext
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "16. What's next?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2689,27 +2322,6 @@ Directory:
 io_redirections_and_filters
 File:
 17-hidethisword
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "17. I hate bins"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2748,27 +2360,6 @@ Directory:
 io_redirections_and_filters
 File:
 18-letteronly
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "18. Letters only please"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2825,27 +2416,6 @@ Directory:
 io_redirections_and_filters
 File:
 19-AZ
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "19. A to Z"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2888,27 +2458,6 @@ Directory:
 io_redirections_and_filters
 File:
 20-hiago
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "20. Without C, you would live in hiago"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2950,27 +2499,6 @@ Directory:
 io_redirections_and_filters
 File:
 21-reverse
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "21. esreveR"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3497,27 +3025,6 @@ Directory:
 io_redirections_and_filters
 File:
 22-users_and_homes
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "22. DJ Cut Killer"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3990,27 +3497,6 @@ Directory:
 io_redirections_and_filters
 File:
 23-empty_casks
-Score of the task
-0
-/5
-pts
-0.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "23. Empty casks make the most noise"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4351,27 +3837,6 @@ Directory:
 io_redirections_and_filters
 File:
 24-gifs
-Score of the task
-0
-/5
-pts
-0.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "24. A gif is worth ten thousand words"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4431,27 +3896,6 @@ Directory:
 io_redirections_and_filters
 File:
 25-acrostic
-Score of the task
-0
-/3
-pts
-0.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "25. Acrostic"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4703,27 +4147,6 @@ Directory:
 io_redirections_and_filters
 File:
 26-the_biggest_fan
-Score of the task
-0
-/5
-pts
-0.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-×
-Students who are done with "26. The biggest fan"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
